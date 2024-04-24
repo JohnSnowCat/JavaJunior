@@ -26,9 +26,9 @@ public class Student implements Serializable {
 //        this.age = age;
 //    }
 
-    public double getGPA() {
-        return GPA;
-    }
+//    public double getGPA() {
+//        return GPA;
+//    }
 
 //    public String getName() {
 //        return name;
