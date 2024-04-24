@@ -18,25 +18,25 @@ public class Student implements Serializable {
         this.GPA = GPA;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
+//    public void setName(String name) {
+//        this.name = name;
+//    }
 
-    public void setAge(int age) {
-        this.age = age;
-    }
+//    public void setAge(int age) {
+//        this.age = age;
+//    }
 
     public double getGPA() {
         return GPA;
     }
 
-    public String getName() {
-        return name;
-    }
-
-    public int getAge() {
-        return age;
-    }
+//    public String getName() {
+//        return name;
+//    }
+//
+//    public int getAge() {
+//        return age;
+//    }
 
     @Override
     public String toString() {
